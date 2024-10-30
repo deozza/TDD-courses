@@ -1,0 +1,6 @@
+[submodule "symfony-tdd-exercices"]
+	path = symfony-tdd-exercices
+	url = https://github.com/deozza/symfony-tdd-exercices
+[submodule "tdd-exercices-js"]
+	path = tdd-exercices-js
+	url = https://github.com/deozza/tdd-exercices-js
